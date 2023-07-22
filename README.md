@@ -7,7 +7,7 @@
  [![ɪɴꜱᴛᴀɢʀᴀᴍ](https://img.shields.io/badge/𝕀𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞-%23E4405F.svg?logo=ɪɴꜱᴛᴀɢʀᴀᴍ&logoColor=white)](https://www.instagram.com/mrshadowgaram)
  [![Youtube](https://img.shields.io/badge/𝕐𝕠𝕦𝕋𝕦𝕓𝕖-%23E4405F.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/Mr.mk_vibes)
 
-<a href="https://telegram.dog/Shadow_king_mk"><img alt="Telegram" src="https://img.shields.io/badge/Mr.Mk-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.dog/Shadow_king_mk"><img alt="Telegram" src="https://img.shields.io/badge/𝕄𝕣.𝕞𝕜-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <p align="center">
