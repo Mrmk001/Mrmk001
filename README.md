@@ -18,12 +18,6 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Mrmk001">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Mrmk001&theme=react-dark" />
-  </a>
-</p>
-
-<p align="center">
 <a href="https://youtube.com/@Mr.mk_vibes">
   <img src="https://img.shields.io/badge/ꜱᴜʙꜱᴄʀɪʙᴇ-red?logo=youtube" width="150">
 </p>
